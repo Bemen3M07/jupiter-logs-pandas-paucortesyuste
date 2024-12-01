@@ -1,8 +1,0 @@
-Que creieu que és millor mostrar els logs per exemple a la terminal durant
-l&#39;execució del programa o bolcar-los en un fitxer de text? Afegiu al readme.md
-del repositori aquesta pregunta amb la seva reposta 
-## Pregunta: Què és millor, mostrar els logs a la terminal durant l'execució del programa o bolcar-los en un fitxer de text?
-
-Considerem que és millor bolcar els logs en un fitxer de text. Això es deu al fet que si la terminal es tanca accidentalment, s'executa un `clear` o es perd la sessió, els missatges mostrats a la terminal es perden. En canvi, si els logs es guarden en un fitxer, es poden consultar posteriorment sense perdre cap informació. Això és especialment útil per fer depuració o analitzar esdeveniments passats de manera més ordenada i fiable.
-
-Considero que es mejor guardarlos en un fichero de texto.Porque si la terminal se cierra o se ejecuta un clear se puede perder la sesion, en camvio si se guarda en el fichero se puede conultar cuando se necesario y aprate puedes luego poner comentarion o apuntar la respuesta de dicho error para la proxima vez solucionarlo (Lo que seria un control de errores de toda la vida )
